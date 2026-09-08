@@ -1,0 +1,12 @@
+/home/maria/projetos estudos/template/AppProject.Exceptions/bin/Debug/net10.0/AppProject.Exceptions.deps.json
+/home/maria/projetos estudos/template/AppProject.Exceptions/bin/Debug/net10.0/AppProject.Exceptions.dll
+/home/maria/projetos estudos/template/AppProject.Exceptions/bin/Debug/net10.0/AppProject.Exceptions.pdb
+/home/maria/projetos estudos/template/AppProject.Exceptions/bin/Debug/net10.0/.xml
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.AssemblyInfoInputs.cache
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.AssemblyInfo.cs
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.csproj.CoreCompileInputs.cache
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.dll
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/refint/AppProject.Exceptions.dll
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.pdb
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/ref/AppProject.Exceptions.dll

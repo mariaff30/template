@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCb3ByDJVs0=",
+  "success": true,
+  "projectFilePath": "/home/maria/projetos estudos/template/AppProject.Resources/AppProject.Resources.csproj",
+  "expectedPackageFiles": [
+    "/home/maria/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqeILpyUN74=",
+  "success": true,
+  "projectFilePath": "/home/maria/projetos estudos/template/AppProject.Web.Models.General/AppProject.Web.Models.General.csproj",
+  "expectedPackageFiles": [
+    "/home/maria/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
