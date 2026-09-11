@@ -26,3 +26,4 @@
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Database/obj/Debug/net10.0/refint/AppProject.Core.Infrastructure.Database.dll
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Database/obj/Debug/net10.0/AppProject.Core.Infrastructure.Database.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Database/obj/Debug/net10.0/ref/AppProject.Core.Infrastructure.Database.dll
+/home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Database/obj/Debug/net10.0/AppProject.Core.Infrastructure.Database.sourcelink.json

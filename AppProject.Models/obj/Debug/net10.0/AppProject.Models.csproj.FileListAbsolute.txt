@@ -14,3 +14,4 @@
 /home/maria/projetos estudos/template/AppProject.Models/obj/Debug/net10.0/refint/AppProject.Models.dll
 /home/maria/projetos estudos/template/AppProject.Models/obj/Debug/net10.0/AppProject.Models.pdb
 /home/maria/projetos estudos/template/AppProject.Models/obj/Debug/net10.0/ref/AppProject.Models.dll
+/home/maria/projetos estudos/template/AppProject.Models/obj/Debug/net10.0/AppProject.Models.sourcelink.json

@@ -8,3 +8,4 @@
 /home/maria/projetos estudos/template/AppProject.Utils/obj/Debug/net10.0/refint/AppProject.Utils.dll
 /home/maria/projetos estudos/template/AppProject.Utils/obj/Debug/net10.0/AppProject.Utils.pdb
 /home/maria/projetos estudos/template/AppProject.Utils/obj/Debug/net10.0/ref/AppProject.Utils.dll
+/home/maria/projetos estudos/template/AppProject.Utils/obj/Debug/net10.0/AppProject.Utils.sourcelink.json

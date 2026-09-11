@@ -34,3 +34,4 @@
 /home/maria/projetos estudos/template/AppProject.Core.Services/obj/Debug/net10.0/refint/AppProject.Core.Services.dll
 /home/maria/projetos estudos/template/AppProject.Core.Services/obj/Debug/net10.0/AppProject.Core.Services.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Services/obj/Debug/net10.0/ref/AppProject.Core.Services.dll
+/home/maria/projetos estudos/template/AppProject.Core.Services/obj/Debug/net10.0/AppProject.Core.Services.sourcelink.json

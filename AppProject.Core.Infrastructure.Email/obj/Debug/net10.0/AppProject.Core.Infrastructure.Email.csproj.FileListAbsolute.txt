@@ -20,3 +20,4 @@
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Email/obj/Debug/net10.0/refint/AppProject.Core.Infrastructure.Email.dll
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Email/obj/Debug/net10.0/AppProject.Core.Infrastructure.Email.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Email/obj/Debug/net10.0/ref/AppProject.Core.Infrastructure.Email.dll
+/home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Email/obj/Debug/net10.0/AppProject.Core.Infrastructure.Email.sourcelink.json

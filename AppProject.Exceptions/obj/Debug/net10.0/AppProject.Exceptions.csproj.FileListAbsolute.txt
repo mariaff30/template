@@ -10,3 +10,4 @@
 /home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/refint/AppProject.Exceptions.dll
 /home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.pdb
 /home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/ref/AppProject.Exceptions.dll
+/home/maria/projetos estudos/template/AppProject.Exceptions/obj/Debug/net10.0/AppProject.Exceptions.sourcelink.json

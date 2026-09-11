@@ -14,7 +14,7 @@ namespace AppProject.Core.Controllers
             var sampleData = new
             {
                 Id = 1,
-                Name = "Sample - mFF",
+                Name = "Sample - MFF",
                 Description = "This is a sample data response from the API."
             };
 

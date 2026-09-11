@@ -38,3 +38,4 @@
 /home/maria/projetos estudos/template/AppProject.Core.Controllers/obj/Debug/net10.0/refint/AppProject.Core.Controllers.dll
 /home/maria/projetos estudos/template/AppProject.Core.Controllers/obj/Debug/net10.0/AppProject.Core.Controllers.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Controllers/obj/Debug/net10.0/ref/AppProject.Core.Controllers.dll
+/home/maria/projetos estudos/template/AppProject.Core.Controllers/obj/Debug/net10.0/AppProject.Core.Controllers.sourcelink.json
