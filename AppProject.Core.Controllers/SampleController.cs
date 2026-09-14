@@ -1,4 +1,5 @@
 #if DEBUG
+using AppProject.Resources;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -24,6 +25,13 @@ namespace AppProject.Core.Controllers
 
 
             return Ok(sampleData);
+        }
+
+
+        [HttpGet]
+        public IActionResult GetCultureSample()
+        {
+            return this.Ok(StringResource.GetString("Sample_Message_Text"));
         }
     }
 }
