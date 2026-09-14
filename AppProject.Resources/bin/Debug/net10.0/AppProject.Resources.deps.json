@@ -12,6 +12,14 @@
         },
         "runtime": {
           "AppProject.Resources.dll": {}
+        },
+        "resources": {
+          "es-ES/AppProject.Resources.resources.dll": {
+            "locale": "es-ES"
+          },
+          "pt-BR/AppProject.Resources.resources.dll": {
+            "locale": "pt-BR"
+          }
         }
       },
       "AppProject.Utils/1.0.0": {

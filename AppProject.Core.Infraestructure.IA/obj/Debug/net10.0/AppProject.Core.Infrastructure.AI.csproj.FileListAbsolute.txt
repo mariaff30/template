@@ -27,3 +27,5 @@
 /home/maria/projetos estudos/template/AppProject.Core.Infraestructure.IA/obj/Debug/net10.0/AppProject.Core.Infrastructure.AI.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Infraestructure.IA/obj/Debug/net10.0/ref/AppProject.Core.Infrastructure.AI.dll
 /home/maria/projetos estudos/template/AppProject.Core.Infraestructure.IA/obj/Debug/net10.0/AppProject.Core.Infrastructure.AI.sourcelink.json
+/home/maria/projetos estudos/template/AppProject.Core.Infraestructure.IA/bin/Debug/net10.0/pt-BR/AppProject.Resources.resources.dll
+/home/maria/projetos estudos/template/AppProject.Core.Infraestructure.IA/bin/Debug/net10.0/es-ES/AppProject.Resources.resources.dll

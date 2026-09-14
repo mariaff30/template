@@ -61,3 +61,5 @@
 /home/maria/projetos estudos/template/AppProject.Core.API/obj/Debug/net10.0/AppProject.Core.API.genruntimeconfig.cache
 /home/maria/projetos estudos/template/AppProject.Core.API/obj/Debug/net10.0/ref/AppProject.Core.API.dll
 /home/maria/projetos estudos/template/AppProject.Core.API/obj/Debug/net10.0/AppProject.Core.API.sourcelink.json
+/home/maria/projetos estudos/template/AppProject.Core.API/bin/Debug/net10.0/pt-BR/AppProject.Resources.resources.dll
+/home/maria/projetos estudos/template/AppProject.Core.API/bin/Debug/net10.0/es-ES/AppProject.Resources.resources.dll

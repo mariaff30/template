@@ -21,3 +21,5 @@
 /home/maria/projetos estudos/template/AppProject.Core.Models/obj/Debug/net10.0/AppProject.Core.Models.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Models/obj/Debug/net10.0/ref/AppProject.Core.Models.dll
 /home/maria/projetos estudos/template/AppProject.Core.Models/obj/Debug/net10.0/AppProject.Core.Models.sourcelink.json
+/home/maria/projetos estudos/template/AppProject.Core.Models/bin/Debug/net10.0/pt-BR/AppProject.Resources.resources.dll
+/home/maria/projetos estudos/template/AppProject.Core.Models/bin/Debug/net10.0/es-ES/AppProject.Resources.resources.dll

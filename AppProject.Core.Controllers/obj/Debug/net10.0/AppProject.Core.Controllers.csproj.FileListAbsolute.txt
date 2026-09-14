@@ -39,3 +39,5 @@
 /home/maria/projetos estudos/template/AppProject.Core.Controllers/obj/Debug/net10.0/AppProject.Core.Controllers.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Controllers/obj/Debug/net10.0/ref/AppProject.Core.Controllers.dll
 /home/maria/projetos estudos/template/AppProject.Core.Controllers/obj/Debug/net10.0/AppProject.Core.Controllers.sourcelink.json
+/home/maria/projetos estudos/template/AppProject.Core.Controllers/bin/Debug/net10.0/pt-BR/AppProject.Resources.resources.dll
+/home/maria/projetos estudos/template/AppProject.Core.Controllers/bin/Debug/net10.0/es-ES/AppProject.Resources.resources.dll

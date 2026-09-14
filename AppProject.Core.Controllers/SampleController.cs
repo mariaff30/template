@@ -18,6 +18,11 @@ namespace AppProject.Core.Controllers
                 Description = "This is a sample data response from the API."
             };
 
+            List<int> sampleNumbers = new List<int> { 3, 9, 43, 94, 5 };
+            sampleNumbers = [.. sampleNumbers.OrderBy(n => n)];
+            Console.WriteLine("Sorted Sample Numbers: " + string.Join(", ", sampleNumbers));
+
+
             return Ok(sampleData);
         }
     }

@@ -27,3 +27,5 @@
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Jobd/obj/Debug/net10.0/AppProject.Core.Infrastructure.Jobd.pdb
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Jobd/obj/Debug/net10.0/ref/AppProject.Core.Infrastructure.Jobd.dll
 /home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Jobd/obj/Debug/net10.0/AppProject.Core.Infrastructure.Jobd.sourcelink.json
+/home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Jobd/bin/Debug/net10.0/pt-BR/AppProject.Resources.resources.dll
+/home/maria/projetos estudos/template/AppProject.Core.Infrastructure.Jobd/bin/Debug/net10.0/es-ES/AppProject.Resources.resources.dll
