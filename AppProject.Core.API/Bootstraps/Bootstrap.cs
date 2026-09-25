@@ -1,5 +1,6 @@
 using System.Globalization;
 using System.Reflection;
+using AppProject.Core.API.Middlewares;
 using Microsoft.AspNetCore.Localization;
 
 namespace AppProject.Core.API.Bootstraps;
@@ -23,6 +24,8 @@ public static class Bootstrap
         {
             app.MapOpenApi();
         }
+
+        app.UseMiddleware<ExceptionMiddleware>(); // Sempre que chegar uma nova request vai passar nessas pipelines e passa pelo middleware
 
         app.UseHttpsRedirection(); /* Redireciona todas as requisições HTTP para HTTPS*/
         app.MapControllers(); /* Faz o mapeamento das rotas para os controllers da aplicação*/
